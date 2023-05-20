@@ -8,6 +8,6 @@ Discuss at least 6 Web 3 characteristics in your own understanding
 
 4. It offers  freedom to transact publicly or privately without having a third party exposing them to fruad.
 
-5.It makes use of 3-D graphics like in computer games, virtual tours, and e-commerce websites.
+5. It makes use of 3-D graphics like in computer games, virtual tours, and e-commerce websites.
 
 6. It enhances users participation without the authorization from a governing body. It’s does not require any permission from anybody, authority or governing council.
